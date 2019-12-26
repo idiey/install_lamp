@@ -1,0 +1,1 @@
+wget --no-cache -O - https://raw.githubusercontent.com/idiey/install_lamp/master/install.sh | bash
